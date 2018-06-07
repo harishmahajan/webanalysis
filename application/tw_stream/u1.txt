@@ -1,0 +1,2201 @@
+Count[ 0 ]MAxID 542026973246001152
+Date Mon Dec 08 18:44:35 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 542026973246001152
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 1 ]MAxID 542022256721817600
+Date Mon Dec 08 18:25:50 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 542022256721817600
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 2 ]MAxID 542020773871751168
+Date Mon Dec 08 18:19:57 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 542020773871751168
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 3 ]MAxID 542020534930636800
+Date Mon Dec 08 18:19:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 542020534930636800
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 4 ]MAxID 542020438511988736
+Date Mon Dec 08 18:18:37 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 542020438511988736
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 5 ]MAxID 542020311089049600
+Date Mon Dec 08 18:18:07 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 542020311089049600
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 6 ]MAxID 542020142159257600
+Date Mon Dec 08 18:17:26 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 542020142159257600
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 7 ]MAxID 541997187459076097
+Date Mon Dec 08 16:46:13 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 541997187459076097
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 8 ]MAxID 541996766246084608
+Date Mon Dec 08 16:44:33 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 541996766246084608
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 9 ]MAxID 541996611509829632
+Date Mon Dec 08 16:43:56 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 541996611509829632
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 10 ]MAxID 541996412909518848
+Date Mon Dec 08 16:43:09 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 541996412909518848
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 11 ]MAxID 541996130821607424
+Date Mon Dec 08 16:42:02 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 541996130821607424
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 12 ]MAxID 541808163159171072
+Date Mon Dec 08 04:15:07 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 541808163159171072
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 13 ]MAxID 541441174829924353
+Date Sun Dec 07 03:56:50 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 541441174829924353
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 14 ]MAxID 541338569701212162
+Date Sat Dec 06 21:09:07 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 541338569701212162
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 15 ]MAxID 541023718458134528
+Date Sat Dec 06 00:18:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 541023718458134528
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 16 ]MAxID 540945558135779328
+Date Fri Dec 05 19:07:25 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540945558135779328
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 17 ]MAxID 540911663738679296
+Date Fri Dec 05 16:52:44 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540911663738679296
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 18 ]MAxID 540674689916338176
+Date Fri Dec 05 01:11:05 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540674689916338176
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 19 ]MAxID 540652248678678529
+Date Thu Dec 04 23:41:55 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540652248678678529
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 20 ]MAxID 540652118193876993
+Date Thu Dec 04 23:41:24 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540652118193876993
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 21 ]MAxID 540651608581758976
+Date Thu Dec 04 23:39:22 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540651608581758976
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 22 ]MAxID 540651264812408832
+Date Thu Dec 04 23:38:01 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540651264812408832
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 23 ]MAxID 540651057576022017
+Date Thu Dec 04 23:37:11 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540651057576022017
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 24 ]MAxID 540650881272668160
+Date Thu Dec 04 23:36:29 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540650881272668160
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 25 ]MAxID 540650566964084736
+Date Thu Dec 04 23:35:14 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540650566964084736
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 26 ]MAxID 540650353704718338
+Date Thu Dec 04 23:34:23 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540650353704718338
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 27 ]MAxID 540649968483061760
+Date Thu Dec 04 23:32:51 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540649968483061760
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 28 ]MAxID 540649828007432194
+Date Thu Dec 04 23:32:18 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540649828007432194
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 29 ]MAxID 540579794916610048
+Date Thu Dec 04 18:54:01 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540579794916610048
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 30 ]MAxID 540545028087508993
+Date Thu Dec 04 16:35:52 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540545028087508993
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 31 ]MAxID 540369155640156160
+Date Thu Dec 04 04:57:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540369155640156160
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 32 ]MAxID 540299252467900416
+Date Thu Dec 04 00:19:14 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540299252467900416
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 33 ]MAxID 540298302554521600
+Date Thu Dec 04 00:15:28 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540298302554521600
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 34 ]MAxID 540295305669783552
+Date Thu Dec 04 00:03:33 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540295305669783552
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 35 ]MAxID 540272771410849793
+Date Wed Dec 03 22:34:01 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 540272771410849793
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 36 ]MAxID 539937469492256769
+Date Wed Dec 03 00:21:38 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539937469492256769
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 37 ]MAxID 539936509848059904
+Date Wed Dec 03 00:17:50 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539936509848059904
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 38 ]MAxID 539936111393386496
+Date Wed Dec 03 00:16:15 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539936111393386496
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 39 ]MAxID 539935753640230912
+Date Wed Dec 03 00:14:49 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539935753640230912
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 40 ]MAxID 539935321777913856
+Date Wed Dec 03 00:13:06 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539935321777913856
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 41 ]MAxID 539870910275399682
+Date Tue Dec 02 19:57:09 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539870910275399682
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 42 ]MAxID 539865480136515584
+Date Tue Dec 02 19:35:35 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539865480136515584
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 43 ]MAxID 539865397156409344
+Date Tue Dec 02 19:35:15 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539865397156409344
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 44 ]MAxID 539865334027939842
+Date Tue Dec 02 19:35:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539865334027939842
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 45 ]MAxID 539865243275784193
+Date Tue Dec 02 19:34:38 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539865243275784193
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 46 ]MAxID 539865109255168000
+Date Tue Dec 02 19:34:06 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539865109255168000
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 47 ]MAxID 539855315257155584
+Date Tue Dec 02 18:55:11 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539855315257155584
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 48 ]MAxID 539835418489810944
+Date Tue Dec 02 17:36:08 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539835418489810944
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 49 ]MAxID 539834447189659648
+Date Tue Dec 02 17:32:16 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539834447189659648
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 50 ]MAxID 539833724653682689
+Date Tue Dec 02 17:29:24 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539833724653682689
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 51 ]MAxID 539833229088288768
+Date Tue Dec 02 17:27:26 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539833229088288768
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 52 ]MAxID 539829374183174144
+Date Tue Dec 02 17:12:07 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539829374183174144
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 53 ]MAxID 539829212383674368
+Date Tue Dec 02 17:11:28 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539829212383674368
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 54 ]MAxID 539828838843183104
+Date Tue Dec 02 17:09:59 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539828838843183104
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 55 ]MAxID 539828686464090112
+Date Tue Dec 02 17:09:23 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539828686464090112
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 56 ]MAxID 539828559791923200
+Date Tue Dec 02 17:08:52 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539828559791923200
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 57 ]MAxID 539630538923851777
+Date Tue Dec 02 04:02:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539630538923851777
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 58 ]MAxID 539604869322002432
+Date Tue Dec 02 02:20:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539604869322002432
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 59 ]MAxID 539588471501766656
+Date Tue Dec 02 01:14:51 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539588471501766656
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 60 ]MAxID 539577208667250689
+Date Tue Dec 02 00:30:06 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539577208667250689
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 61 ]MAxID 539567851690942464
+Date Mon Dec 01 23:52:55 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539567851690942464
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 62 ]MAxID 539547360469057536
+Date Mon Dec 01 22:31:29 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539547360469057536
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 63 ]MAxID 539547231859134464
+Date Mon Dec 01 22:30:59 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539547231859134464
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 64 ]MAxID 539547097993711616
+Date Mon Dec 01 22:30:27 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539547097993711616
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 65 ]MAxID 539509299416813568
+Date Mon Dec 01 20:00:15 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539509299416813568
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 66 ]MAxID 539509080432201728
+Date Mon Dec 01 19:59:23 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539509080432201728
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 67 ]MAxID 539457712728195073
+Date Mon Dec 01 16:35:16 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539457712728195073
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 68 ]MAxID 539277965146607618
+Date Mon Dec 01 04:41:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539277965146607618
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 69 ]MAxID 539221220575559680
+Date Mon Dec 01 00:55:31 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 539221220575559680
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 70 ]MAxID 538751505046568960
+Date Sat Nov 29 17:49:02 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 538751505046568960
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 71 ]MAxID 538553964925423616
+Date Sat Nov 29 04:44:05 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 538553964925423616
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 72 ]MAxID 538538844987985920
+Date Sat Nov 29 03:44:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 538538844987985920
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 73 ]MAxID 538446440867971072
+Date Fri Nov 28 21:36:50 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 538446440867971072
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 74 ]MAxID 538446381346603009
+Date Fri Nov 28 21:36:35 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 538446381346603009
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 75 ]MAxID 538445620025892864
+Date Fri Nov 28 21:33:34 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 538445620025892864
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 76 ]MAxID 538445141913395200
+Date Fri Nov 28 21:31:40 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 538445141913395200
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 77 ]MAxID 538444987738775553
+Date Fri Nov 28 21:31:03 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 538444987738775553
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 78 ]MAxID 538440202843197440
+Date Fri Nov 28 21:12:02 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 538440202843197440
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 79 ]MAxID 538415013875023872
+Date Fri Nov 28 19:31:57 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 538415013875023872
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 80 ]MAxID 538383265023803393
+Date Fri Nov 28 17:25:47 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 538383265023803393
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 81 ]MAxID 538074518686670848
+Date Thu Nov 27 20:58:56 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 538074518686670848
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 82 ]MAxID 538074390630375424
+Date Thu Nov 27 20:58:26 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 538074390630375424
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 83 ]MAxID 538036032378126337
+Date Thu Nov 27 18:26:01 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 538036032378126337
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 84 ]MAxID 537733587118735360
+Date Wed Nov 26 22:24:12 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537733587118735360
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 85 ]MAxID 537733101380583424
+Date Wed Nov 26 22:22:16 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537733101380583424
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 86 ]MAxID 537717133136777216
+Date Wed Nov 26 21:18:49 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537717133136777216
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 87 ]MAxID 537707264686039040
+Date Wed Nov 26 20:39:36 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537707264686039040
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 88 ]MAxID 537683712537026560
+Date Wed Nov 26 19:06:01 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537683712537026560
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 89 ]MAxID 537680588116094976
+Date Wed Nov 26 18:53:36 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537680588116094976
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 90 ]MAxID 537676546295603200
+Date Wed Nov 26 18:37:32 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537676546295603200
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 91 ]MAxID 537676374366896128
+Date Wed Nov 26 18:36:51 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537676374366896128
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 92 ]MAxID 537671674343477248
+Date Wed Nov 26 18:18:11 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537671674343477248
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 93 ]MAxID 537671123463196673
+Date Wed Nov 26 18:15:59 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537671123463196673
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 94 ]MAxID 537670909411471360
+Date Wed Nov 26 18:15:08 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537670909411471360
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 95 ]MAxID 537670116671250432
+Date Wed Nov 26 18:11:59 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537670116671250432
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 96 ]MAxID 537666815975903232
+Date Wed Nov 26 17:58:52 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537666815975903232
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 97 ]MAxID 537653188157902848
+Date Wed Nov 26 17:04:43 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537653188157902848
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 98 ]MAxID 537652947341963264
+Date Wed Nov 26 17:03:46 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537652947341963264
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 99 ]MAxID 537425762098229248
+Date Wed Nov 26 02:01:01 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537425762098229248
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 100 ]MAxID 537401601557004288
+Date Wed Nov 26 00:25:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537401601557004288
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 101 ]MAxID 537401467519262720
+Date Wed Nov 26 00:24:28 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537401467519262720
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 102 ]MAxID 537396852446883840
+Date Wed Nov 26 00:06:08 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537396852446883840
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 103 ]MAxID 537329028693102593
+Date Tue Nov 25 19:36:38 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537329028693102593
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 104 ]MAxID 537328966751637504
+Date Tue Nov 25 19:36:23 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537328966751637504
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 105 ]MAxID 537328813110071297
+Date Tue Nov 25 19:35:46 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537328813110071297
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 106 ]MAxID 537328468300533761
+Date Tue Nov 25 19:34:24 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537328468300533761
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 107 ]MAxID 537328059192311808
+Date Tue Nov 25 19:32:47 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537328059192311808
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 108 ]MAxID 537325602059980800
+Date Tue Nov 25 19:23:01 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537325602059980800
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 109 ]MAxID 537283074795397121
+Date Tue Nov 25 16:34:01 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537283074795397121
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 110 ]MAxID 537052617222811648
+Date Tue Nov 25 01:18:16 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537052617222811648
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 111 ]MAxID 537052395839053824
+Date Tue Nov 25 01:17:23 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537052395839053824
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 112 ]MAxID 537033330688925696
+Date Tue Nov 25 00:01:38 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537033330688925696
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 113 ]MAxID 537033204952080384
+Date Tue Nov 25 00:01:08 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537033204952080384
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 114 ]MAxID 537031173210243072
+Date Mon Nov 24 23:53:03 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537031173210243072
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 115 ]MAxID 537030960647114753
+Date Mon Nov 24 23:52:13 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537030960647114753
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 116 ]MAxID 537020762058522624
+Date Mon Nov 24 23:11:41 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537020762058522624
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 117 ]MAxID 537017324654432256
+Date Mon Nov 24 22:58:02 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537017324654432256
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 118 ]MAxID 537001717250801664
+Date Mon Nov 24 21:56:01 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 537001717250801664
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 119 ]MAxID 536996714486329345
+Date Mon Nov 24 21:36:08 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 536996714486329345
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 120 ]MAxID 536995333981483008
+Date Mon Nov 24 21:30:39 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 536995333981483008
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 121 ]MAxID 536964914305171457
+Date Mon Nov 24 19:29:46 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 536964914305171457
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 122 ]MAxID 536958474555387904
+Date Mon Nov 24 19:04:11 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 536958474555387904
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 123 ]MAxID 536939060317519872
+Date Mon Nov 24 17:47:02 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 536939060317519872
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 124 ]MAxID 536938956915359744
+Date Mon Nov 24 17:46:37 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 536938956915359744
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 125 ]MAxID 536938839944613889
+Date Mon Nov 24 17:46:09 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 536938839944613889
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 126 ]MAxID 536938064807858176
+Date Mon Nov 24 17:43:05 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 536938064807858176
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 127 ]MAxID 536937962181627904
+Date Mon Nov 24 17:42:40 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 536937962181627904
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 128 ]MAxID 536937608249499649
+Date Mon Nov 24 17:41:16 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 536937608249499649
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 129 ]MAxID 536937358130565120
+Date Mon Nov 24 17:40:16 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 536937358130565120
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 130 ]MAxID 535944248961400832
+Date Fri Nov 21 23:54:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535944248961400832
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 131 ]MAxID 535938176661987328
+Date Fri Nov 21 23:29:53 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535938176661987328
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 132 ]MAxID 535938027726438400
+Date Fri Nov 21 23:29:17 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535938027726438400
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 133 ]MAxID 535933354474893312
+Date Fri Nov 21 23:10:43 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535933354474893312
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 134 ]MAxID 535933302452936706
+Date Fri Nov 21 23:10:31 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535933302452936706
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 135 ]MAxID 535933152573661184
+Date Fri Nov 21 23:09:55 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535933152573661184
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 136 ]MAxID 535932965948116992
+Date Fri Nov 21 23:09:10 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535932965948116992
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 137 ]MAxID 535932907462742016
+Date Fri Nov 21 23:08:56 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535932907462742016
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 138 ]MAxID 535923276459962368
+Date Fri Nov 21 22:30:40 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535923276459962368
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 139 ]MAxID 535923144179994625
+Date Fri Nov 21 22:30:09 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535923144179994625
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 140 ]MAxID 535922764733898753
+Date Fri Nov 21 22:28:38 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535922764733898753
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 141 ]MAxID 535922601697112064
+Date Fri Nov 21 22:27:59 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535922601697112064
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 142 ]MAxID 535922523041320960
+Date Fri Nov 21 22:27:41 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535922523041320960
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 143 ]MAxID 535922404183138304
+Date Fri Nov 21 22:27:12 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535922404183138304
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 144 ]MAxID 535921350422953984
+Date Fri Nov 21 22:23:01 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535921350422953984
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 145 ]MAxID 535861706564460544
+Date Fri Nov 21 18:26:01 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535861706564460544
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 146 ]MAxID 535819412977090561
+Date Fri Nov 21 15:37:57 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535819412977090561
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 147 ]MAxID 535818798062792704
+Date Fri Nov 21 15:35:31 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535818798062792704
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 148 ]MAxID 535818139980664832
+Date Fri Nov 21 15:32:54 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535818139980664832
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 149 ]MAxID 535818102420684800
+Date Fri Nov 21 15:32:45 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535818102420684800
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 150 ]MAxID 535817711654150145
+Date Fri Nov 21 15:31:12 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535817711654150145
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 151 ]MAxID 535817472385892352
+Date Fri Nov 21 15:30:15 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535817472385892352
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 152 ]MAxID 535602748507435008
+Date Fri Nov 21 01:17:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535602748507435008
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 153 ]MAxID 535592884263612416
+Date Fri Nov 21 00:37:49 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535592884263612416
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 154 ]MAxID 535588261515636736
+Date Fri Nov 21 00:19:26 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535588261515636736
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 155 ]MAxID 535576324576780288
+Date Thu Nov 20 23:32:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535576324576780288
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 156 ]MAxID 535550167529705472
+Date Thu Nov 20 21:48:04 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535550167529705472
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 157 ]MAxID 535549700963713024
+Date Thu Nov 20 21:46:13 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535549700963713024
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 158 ]MAxID 535524689930502144
+Date Thu Nov 20 20:06:50 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535524689930502144
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 159 ]MAxID 535524606069600256
+Date Thu Nov 20 20:06:30 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535524606069600256
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 160 ]MAxID 535524507352436736
+Date Thu Nov 20 20:06:06 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535524507352436736
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 161 ]MAxID 535523813824274432
+Date Thu Nov 20 20:03:21 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535523813824274432
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 162 ]MAxID 535523533275680768
+Date Thu Nov 20 20:02:14 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535523533275680768
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 163 ]MAxID 535523433132486656
+Date Thu Nov 20 20:01:50 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535523433132486656
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 164 ]MAxID 535513410314592256
+Date Thu Nov 20 19:22:01 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535513410314592256
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 165 ]MAxID 535481488477650944
+Date Thu Nov 20 17:15:10 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535481488477650944
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 166 ]MAxID 535480817602920450
+Date Thu Nov 20 17:12:30 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535480817602920450
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 167 ]MAxID 535479763805020160
+Date Thu Nov 20 17:08:19 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535479763805020160
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 168 ]MAxID 535230116692234241
+Date Thu Nov 20 00:36:18 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535230116692234241
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 169 ]MAxID 535229918964350976
+Date Thu Nov 20 00:35:31 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535229918964350976
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 170 ]MAxID 535229236202991617
+Date Thu Nov 20 00:32:48 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535229236202991617
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 171 ]MAxID 535228950084325376
+Date Thu Nov 20 00:31:40 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535228950084325376
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 172 ]MAxID 535228754541682689
+Date Thu Nov 20 00:30:53 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535228754541682689
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 173 ]MAxID 535211168231878656
+Date Wed Nov 19 23:21:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535211168231878656
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 174 ]MAxID 535164307554971648
+Date Wed Nov 19 20:14:48 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535164307554971648
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 175 ]MAxID 535108193299333120
+Date Wed Nov 19 16:31:49 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535108193299333120
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 176 ]MAxID 535108099476963328
+Date Wed Nov 19 16:31:27 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 535108099476963328
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 177 ]MAxID 534874129220898816
+Date Wed Nov 19 01:01:44 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534874129220898816
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 178 ]MAxID 534868726622220290
+Date Wed Nov 19 00:40:16 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534868726622220290
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 179 ]MAxID 534868685908111361
+Date Wed Nov 19 00:40:06 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534868685908111361
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 180 ]MAxID 534859225592516609
+Date Wed Nov 19 00:02:31 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534859225592516609
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 181 ]MAxID 534859102011551746
+Date Wed Nov 19 00:02:01 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534859102011551746
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 182 ]MAxID 534859099100688384
+Date Wed Nov 19 00:02:01 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534859099100688384
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 183 ]MAxID 534858882401972225
+Date Wed Nov 19 00:01:09 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534858882401972225
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 184 ]MAxID 534846319504805888
+Date Tue Nov 18 23:11:14 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534846319504805888
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 185 ]MAxID 534830063577878528
+Date Tue Nov 18 22:06:38 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534830063577878528
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 186 ]MAxID 534830015687323648
+Date Tue Nov 18 22:06:27 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534830015687323648
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 187 ]MAxID 534829758291247104
+Date Tue Nov 18 22:05:25 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534829758291247104
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 188 ]MAxID 534829323140612096
+Date Tue Nov 18 22:03:41 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534829323140612096
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 189 ]MAxID 534827995370754049
+Date Tue Nov 18 21:58:25 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534827995370754049
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 190 ]MAxID 534827918736637952
+Date Tue Nov 18 21:58:07 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534827918736637952
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 191 ]MAxID 534827524979978241
+Date Tue Nov 18 21:56:33 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534827524979978241
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 192 ]MAxID 534827010997358594
+Date Tue Nov 18 21:54:30 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534827010997358594
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 193 ]MAxID 534784859223244801
+Date Tue Nov 18 19:07:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534784859223244801
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 194 ]MAxID 534747072092585984
+Date Tue Nov 18 16:36:51 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534747072092585984
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 195 ]MAxID 534746901782867968
+Date Tue Nov 18 16:36:11 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534746901782867968
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 196 ]MAxID 534746829917675521
+Date Tue Nov 18 16:35:54 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534746829917675521
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 197 ]MAxID 534746759201710081
+Date Tue Nov 18 16:35:37 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534746759201710081
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 198 ]MAxID 534746261958565888
+Date Tue Nov 18 16:33:38 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534746261958565888
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+Count[ 199 ]MAxID 534566671692734464
+Date Tue Nov 18 04:40:00 +0000 2014
+Twitter USER;: 64609353
+99999999999999999999999
+upTweet
+ID 534566671692734464
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+In updateTweet:
+ffffffffffffffffffffff:
+*********************************
+542026973246001152,542022256721817600,542020773871751168,542020534930636800,542020438511988736,542020311089049600,542020142159257600,541997187459076097,541996766246084608,541996611509829632,541996412909518848,541996130821607424,541808163159171072,541441174829924353,541338569701212162,541023718458134528,540945558135779328,540911663738679296,540674689916338176,540652248678678529,540652118193876993,540651608581758976,540651264812408832,540651057576022017,540650881272668160,540650566964084736,540650353704718338,540649968483061760,540649828007432194,540579794916610048,540545028087508993,540369155640156160,540299252467900416,540298302554521600,540295305669783552,540272771410849793,539937469492256769,539936509848059904,539936111393386496,539935753640230912,539935321777913856,539870910275399682,539865480136515584,539865397156409344,539865334027939842,539865243275784193,539865109255168000,539855315257155584,539835418489810944,539834447189659648,539833724653682689,539833229088288768,539829374183174144,539829212383674368,539828838843183104,539828686464090112,539828559791923200,539630538923851777,539604869322002432,539588471501766656,539577208667250689,539567851690942464,539547360469057536,539547231859134464,539547097993711616,539509299416813568,539509080432201728,539457712728195073,539277965146607618,539221220575559680,538751505046568960,538553964925423616,538538844987985920,538446440867971072,538446381346603009,538445620025892864,538445141913395200,538444987738775553,538440202843197440,538415013875023872,538383265023803393,538074518686670848,538074390630375424,538036032378126337,537733587118735360,537733101380583424,537717133136777216,537707264686039040,537683712537026560,537680588116094976,537676546295603200,537676374366896128,537671674343477248,537671123463196673,537670909411471360,537670116671250432,537666815975903232,537653188157902848,537652947341963264,537425762098229248,537401601557004288,537401467519262720,537396852446883840,537329028693102593,537328966751637504,537328813110071297,537328468300533761,537328059192311808,537325602059980800,537283074795397121,537052617222811648,537052395839053824,537033330688925696,537033204952080384,537031173210243072,537030960647114753,537020762058522624,537017324654432256,537001717250801664,536996714486329345,536995333981483008,536964914305171457,536958474555387904,536939060317519872,536938956915359744,536938839944613889,536938064807858176,536937962181627904,536937608249499649,536937358130565120,535944248961400832,535938176661987328,535938027726438400,535933354474893312,535933302452936706,535933152573661184,535932965948116992,535932907462742016,535923276459962368,535923144179994625,535922764733898753,535922601697112064,535922523041320960,535922404183138304,535921350422953984,535861706564460544,535819412977090561,535818798062792704,535818139980664832,535818102420684800,535817711654150145,535817472385892352,535602748507435008,535592884263612416,535588261515636736,535576324576780288,535550167529705472,535549700963713024,535524689930502144,535524606069600256,535524507352436736,535523813824274432,535523533275680768,535523433132486656,535513410314592256,535481488477650944,535480817602920450,535479763805020160,535230116692234241,535229918964350976,535229236202991617,535228950084325376,535228754541682689,535211168231878656,535164307554971648,535108193299333120,535108099476963328,534874129220898816,534868726622220290,534868685908111361,534859225592516609,534859102011551746,534859099100688384,534858882401972225,534846319504805888,534830063577878528,534830015687323648,534829758291247104,534829323140612096,534827995370754049,534827918736637952,534827524979978241,534827010997358594,534784859223244801,534747072092585984,534746901782867968,534746829917675521,534746759201710081,534746261958565888,534566671692734464,

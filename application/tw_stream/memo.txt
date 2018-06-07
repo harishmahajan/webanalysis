@@ -1,0 +1,10 @@
+// twitter
+1. we run in screen ./daemon.php
+2. It will start nohub php child processes per each connection (Type = 'Twitter')
+3. we need to reload ./daemon.ph to monitor new connections
+3.1 to reload use > kill -1 PID
+3.2 MEMO: on start write PID to file, so we can reload automatically via cron
+4. To exit, please use > kill -15 PID
+
+
+

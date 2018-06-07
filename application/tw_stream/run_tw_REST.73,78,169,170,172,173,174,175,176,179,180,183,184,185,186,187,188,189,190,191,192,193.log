@@ -1,0 +1,3504 @@
+Array
+(
+    [id] => 64453378
+    [id_str] => 64453378
+    [name] => Cray Inc.
+    [screen_name] => cray_inc
+    [location] => Seattle, WA
+    [profile_location] => 
+    [description] => A global leader in supercomputing, Cray Inc. provides innovative HPC platforms. http://t.co/UAOs27BsuD
+    [url] => http://t.co/1VKy9OcASj
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/1VKy9OcASj
+                                    [expanded_url] => http://www.cray.com
+                                    [display_url] => cray.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/UAOs27BsuD
+                                    [expanded_url] => http://www.cray.com
+                                    [display_url] => cray.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 80
+                                            [1] => 102
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 7719
+    [friends_count] => 600
+    [listed_count] => 238
+    [created_at] => Mon Aug 10 17:05:45 +0000 2009
+    [favourites_count] => 406
+    [utc_offset] => -28800
+    [time_zone] => Pacific Time (US & Canada)
+    [geo_enabled] => 1
+    [verified] => 1
+    [statuses_count] => 2819
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Mon Jan 19 22:03:39 +0000 2015
+            [id] => 557297360212987905
+            [id_str] => 557297360212987905
+            [text] => ATTN Students: Campus Recruiting kicks off this week - click the link to find out if we'll be visiting your school! http://t.co/dgIbWV0S4m
+            [source] => <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/dgIbWV0S4m
+                                    [expanded_url] => http://www.cray.com/company/careers/college-relations
+                                    [display_url] => cray.com/company/career…
+                                    [indices] => Array
+                                        (
+                                            [0] => 116
+                                            [1] => 138
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => FFFFFF
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/778754084/8232f007cf237310eeecd11df262a4c4.gif
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/778754084/8232f007cf237310eeecd11df262a4c4.gif
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/800378817/Untitled-7_normal.gif
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/800378817/Untitled-7_normal.gif
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/64453378/1407172308
+    [profile_link_color] => 006699
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => CFDAE1
+    [profile_text_color] => 4A4A4A
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557297360212987905
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 12 ,user id: 64453378
+In construction connection id: 73
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 64609353
+    [id_str] => 64609353
+    [name] => Taco Time
+    [screen_name] => TacoTimeNW
+    [location] => Greater Puget Sound Area
+    [profile_location] => 
+    [description] => Serving you since 1962, Taco Time NW is committed to providing fresh, healthy, & local Mexican fast food choices! For us, fresh is an everyday thing!
+    [url] => http://t.co/qsYP3iDMLv
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/qsYP3iDMLv
+                                    [expanded_url] => http://www.TacoTimeNW.com
+                                    [display_url] => TacoTimeNW.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 4615
+    [friends_count] => 2721
+    [listed_count] => 152
+    [created_at] => Tue Aug 11 03:18:43 +0000 2009
+    [favourites_count] => 2143
+    [utc_offset] => -28800
+    [time_zone] => Pacific Time (US & Canada)
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 7333
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 02:32:00 +0000 2015
+            [id] => 557364894836588544
+            [id_str] => 557364894836588544
+            [text] => Eat Mexi-Fries and consider the unlikelihood of the @Seahawks victory. Also, the unlikelihood of the universe itself. Also, Mexi-Fries.
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 2
+            [favorite_count] => 2
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [screen_name] => Seahawks
+                                    [name] => Seattle Seahawks
+                                    [id] => 23642374
+                                    [id_str] => 23642374
+                                    [indices] => Array
+                                        (
+                                            [0] => 52
+                                            [1] => 61
+                                        )
+
+                                )
+
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => FFFFFF
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/444392129/TacoTimeTwitterPageA.jpg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/444392129/TacoTimeTwitterPageA.jpg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/456933658545250304/L5W0MgI-_normal.jpeg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/456933658545250304/L5W0MgI-_normal.jpeg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/64609353/1417379858
+    [profile_link_color] => 940000
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => C9D659
+    [profile_text_color] => 595929
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557364894836588544
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 25 ,user id: 64609353
+In construction connection id: 78
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 478991090
+    [id_str] => 478991090
+    [name] => Captivion
+    [screen_name] => captivion
+    [location] => 
+    [profile_location] => 
+    [description] => Finding The Right Lender Just Got Easier
+    [url] => http://t.co/xkmFid9uS7
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/xkmFid9uS7
+                                    [expanded_url] => http://www.captivion.com
+                                    [display_url] => captivion.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 771
+    [friends_count] => 150
+    [listed_count] => 1
+    [created_at] => Mon Jan 30 22:02:30 +0000 2012
+    [favourites_count] => 2
+    [utc_offset] => -28800
+    [time_zone] => Pacific Time (US & Canada)
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 470
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 02:12:00 +0000 2015
+            [id] => 557359861717929984
+            [id_str] => 557359861717929984
+            [text] => You want to be a leader? Make sure you’re saying the right things. Anything else you’d add to the list? 
+http://t.co/SV1iv6qaUI
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/SV1iv6qaUI
+                                    [expanded_url] => http://bit.ly/1C4bT9k
+                                    [display_url] => bit.ly/1C4bT9k
+                                    [indices] => Array
+                                        (
+                                            [0] => 105
+                                            [1] => 127
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 282929
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/539551460/Captivion_Twitter_BKG.jpg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/539551460/Captivion_Twitter_BKG.jpg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1793747938/Captivion_Twitter_Profile_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1793747938/Captivion_Twitter_Profile_normal.jpg
+    [profile_link_color] => 0C3F8A
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557359861717929984
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 117 ,user id: 478991090
+In construction connection id: 169
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 54800751
+    [id_str] => 54800751
+    [name] => Carter Subaru
+    [screen_name] => CarterSubaru
+    [location] => Seattle, WA
+    [profile_location] => 
+    [description] => As Seattle's favorite Subaru Dealership, we're here to help you with everything Subaru in the NW! Whether it's a new car, used car, or service, give us a call!
+    [url] => http://t.co/IkrUZL3RcW
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/IkrUZL3RcW
+                                    [expanded_url] => http://www.cartersubaru.com
+                                    [display_url] => cartersubaru.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 2253
+    [friends_count] => 1870
+    [listed_count] => 54
+    [created_at] => Wed Jul 08 04:42:33 +0000 2009
+    [favourites_count] => 352
+    [utc_offset] => -28800
+    [time_zone] => Pacific Time (US & Canada)
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 6452
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 03:12:17 +0000 2015
+            [id] => 557375030506438657
+            [id_str] => 557375030506438657
+            [text] => @MetroWestSubaru Bring it on. #GoHawks
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 557320998924865536
+            [in_reply_to_status_id_str] => 557320998924865536
+            [in_reply_to_user_id] => 173940702
+            [in_reply_to_user_id_str] => 173940702
+            [in_reply_to_screen_name] => MetroWestSubaru
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => GoHawks
+                                    [indices] => Array
+                                        (
+                                            [0] => 30
+                                            [1] => 38
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [screen_name] => MetroWestSubaru
+                                    [name] => MetroWest Subaru
+                                    [id] => 173940702
+                                    [id_str] => 173940702
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 16
+                                        )
+
+                                )
+
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C6E2EE
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/686430308/b3bc6ccc8a57f9b283fb10b62f2a1562.jpeg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/686430308/b3bc6ccc8a57f9b283fb10b62f2a1562.jpeg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/482265548068118531/j5TeurgT_normal.jpeg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/482265548068118531/j5TeurgT_normal.jpeg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/54800751/1415901562
+    [profile_link_color] => 0A0A0A
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => 092FEB
+    [profile_text_color] => ABA8AB
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557375030506438657
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 118 ,user id: 54800751
+In construction connection id: 170
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 54818890
+    [id_str] => 54818890
+    [name] => Carter VW
+    [screen_name] => CarterVW
+    [location] => Seattle, WA
+    [profile_location] => 
+    [description] => We are Seattle's favorite Volkswagen Dealership & we're here to help with everything VW in the NW! Whether it's a new car, used car, or service, give us a call!
+    [url] => http://t.co/Hi1UNpPetn
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/Hi1UNpPetn
+                                    [expanded_url] => http://www.cartervw.com
+                                    [display_url] => cartervw.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 1978
+    [friends_count] => 1306
+    [listed_count] => 53
+    [created_at] => Wed Jul 08 06:22:05 +0000 2009
+    [favourites_count] => 128
+    [utc_offset] => -28800
+    [time_zone] => Pacific Time (US & Canada)
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 5731
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 00:27:23 +0000 2015
+            [id] => 557333534180773888
+            [id_str] => 557333534180773888
+            [text] => @allenshieh That looks like one incredible way to start a #Roadtrip! Where are you headed?
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 557326871507906561
+            [in_reply_to_status_id_str] => 557326871507906561
+            [in_reply_to_user_id] => 17421861
+            [in_reply_to_user_id_str] => 17421861
+            [in_reply_to_screen_name] => allenshieh
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => Roadtrip
+                                    [indices] => Array
+                                        (
+                                            [0] => 58
+                                            [1] => 67
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [screen_name] => allenshieh
+                                    [name] => Allen Shieh
+                                    [id] => 17421861
+                                    [id_str] => 17421861
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 11
+                                        )
+
+                                )
+
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 709397
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/686439668/72a0beb1e053155f8d09859820096372.jpeg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/686439668/72a0beb1e053155f8d09859820096372.jpeg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/482266127867727872/eWnksUdF_normal.jpeg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/482266127867727872/eWnksUdF_normal.jpeg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/54818890/1350425958
+    [profile_link_color] => FF3300
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => A0C5C7
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557333534180773888
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 119 ,user id: 54818890
+In construction connection id: 172
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 809515452
+    [id_str] => 809515452
+    [name] => Directors Mortgage
+    [screen_name] => DM_Mortgage
+    [location] => 
+    [profile_location] => 
+    [description] => We specialize in residential mortgage loans, purchases, refinances, construction loans, reverse mortgages and debt consolidation. NMLS-3240, CL-3240
+    [url] => 
+    [entities] => Array
+        (
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 436
+    [friends_count] => 306
+    [listed_count] => 10
+    [created_at] => Fri Sep 07 20:11:22 +0000 2012
+    [favourites_count] => 720
+    [utc_offset] => -25200
+    [time_zone] => Arizona
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 3112
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 03:06:49 +0000 2015
+            [id] => 557373654216876033
+            [id_str] => 557373654216876033
+            [text] => RT @TBTV: TV Tune In: Portland [30-11] vs. Sacramento [16-24] #PORvsSAC
+
+WATCH: http://t.co/1wz3fFD6Up http://t.co/aGPBFvRXN2
+            [source] => <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweeted_status] => Array
+                (
+                    [created_at] => Tue Jan 20 02:36:13 +0000 2015
+                    [id] => 557365953001193473
+                    [id_str] => 557365953001193473
+                    [text] => TV Tune In: Portland [30-11] vs. Sacramento [16-24] #PORvsSAC
+
+WATCH: http://t.co/1wz3fFD6Up http://t.co/aGPBFvRXN2
+                    [source] => <a href="http://www.hootsuite.com" rel="nofollow">Hootsuite</a>
+                    [truncated] => 
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [retweet_count] => 9
+                    [favorite_count] => 19
+                    [entities] => Array
+                        (
+                            [hashtags] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => PORvsSAC
+                                            [indices] => Array
+                                                (
+                                                    [0] => 52
+                                                    [1] => 61
+                                                )
+
+                                        )
+
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [url] => http://t.co/1wz3fFD6Up
+                                            [expanded_url] => http://Rip.City/adkd
+                                            [display_url] => Rip.City/adkd
+                                            [indices] => Array
+                                                (
+                                                    [0] => 70
+                                                    [1] => 92
+                                                )
+
+                                        )
+
+                                )
+
+                            [media] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [id] => 557365952442925056
+                                            [id_str] => 557365952442925056
+                                            [indices] => Array
+                                                (
+                                                    [0] => 93
+                                                    [1] => 115
+                                                )
+
+                                            [media_url] => http://pbs.twimg.com/media/B7wpYXVCAAAaJoz.jpg
+                                            [media_url_https] => https://pbs.twimg.com/media/B7wpYXVCAAAaJoz.jpg
+                                            [url] => http://t.co/aGPBFvRXN2
+                                            [display_url] => pic.twitter.com/aGPBFvRXN2
+                                            [expanded_url] => http://twitter.com/TBTV/status/557365953001193473/photo/1
+                                            [type] => photo
+                                            [sizes] => Array
+                                                (
+                                                    [medium] => Array
+                                                        (
+                                                            [w] => 600
+                                                            [h] => 296
+                                                            [resize] => fit
+                                                        )
+
+                                                    [large] => Array
+                                                        (
+                                                            [w] => 756
+                                                            [h] => 374
+                                                            [resize] => fit
+                                                        )
+
+                                                    [thumb] => Array
+                                                        (
+                                                            [w] => 150
+                                                            [h] => 150
+                                                            [resize] => crop
+                                                        )
+
+                                                    [small] => Array
+                                                        (
+                                                            [w] => 340
+                                                            [h] => 168
+                                                            [resize] => fit
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [favorited] => 
+                    [retweeted] => 
+                    [possibly_sensitive] => 
+                    [lang] => en
+                )
+
+            [retweet_count] => 9
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => PORvsSAC
+                                    [indices] => Array
+                                        (
+                                            [0] => 62
+                                            [1] => 71
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [screen_name] => TBTV
+                                    [name] => Trail Blazers TV
+                                    [id] => 784140594
+                                    [id_str] => 784140594
+                                    [indices] => Array
+                                        (
+                                            [0] => 3
+                                            [1] => 8
+                                        )
+
+                                )
+
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/1wz3fFD6Up
+                                    [expanded_url] => http://Rip.City/adkd
+                                    [display_url] => Rip.City/adkd
+                                    [indices] => Array
+                                        (
+                                            [0] => 80
+                                            [1] => 102
+                                        )
+
+                                )
+
+                        )
+
+                    [media] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 557365952442925056
+                                    [id_str] => 557365952442925056
+                                    [indices] => Array
+                                        (
+                                            [0] => 103
+                                            [1] => 125
+                                        )
+
+                                    [media_url] => http://pbs.twimg.com/media/B7wpYXVCAAAaJoz.jpg
+                                    [media_url_https] => https://pbs.twimg.com/media/B7wpYXVCAAAaJoz.jpg
+                                    [url] => http://t.co/aGPBFvRXN2
+                                    [display_url] => pic.twitter.com/aGPBFvRXN2
+                                    [expanded_url] => http://twitter.com/TBTV/status/557365953001193473/photo/1
+                                    [type] => photo
+                                    [sizes] => Array
+                                        (
+                                            [medium] => Array
+                                                (
+                                                    [w] => 600
+                                                    [h] => 296
+                                                    [resize] => fit
+                                                )
+
+                                            [large] => Array
+                                                (
+                                                    [w] => 756
+                                                    [h] => 374
+                                                    [resize] => fit
+                                                )
+
+                                            [thumb] => Array
+                                                (
+                                                    [w] => 150
+                                                    [h] => 150
+                                                    [resize] => crop
+                                                )
+
+                                            [small] => Array
+                                                (
+                                                    [w] => 340
+                                                    [h] => 168
+                                                    [resize] => fit
+                                                )
+
+                                        )
+
+                                    [source_status_id] => 557365953001193473
+                                    [source_status_id_str] => 557365953001193473
+                                    [source_user_id] => 784140594
+                                    [source_user_id_str] => 784140594
+                                )
+
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/671795235/c43c80ab4d5e1ad73eeafb1f5b6770f9.jpeg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/671795235/c43c80ab4d5e1ad73eeafb1f5b6770f9.jpeg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/3153527097/c1a169bc5bcffcecafe936eba0b17a31_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/3153527097/c1a169bc5bcffcecafe936eba0b17a31_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/809515452/1406584148
+    [profile_link_color] => 0084B4
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557373654216876033
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 120 ,user id: 809515452
+In construction connection id: 173
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 19432962
+    [id_str] => 19432962
+    [name] => DRY Soda
+    [screen_name] => DRYSoda
+    [location] => Seattle, WA
+    [profile_location] => 
+    [description] => DRY Soda contains only four ingredients and is all-natural, less sweet, better tasting, and better for you. Ideal to sip, pair, or mix for any occasion.
+    [url] => http://t.co/fortLeLNO2
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/fortLeLNO2
+                                    [expanded_url] => http://www.drysoda.com
+                                    [display_url] => drysoda.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 8166
+    [friends_count] => 5535
+    [listed_count] => 389
+    [created_at] => Sat Jan 24 05:26:11 +0000 2009
+    [favourites_count] => 3102
+    [utc_offset] => -28800
+    [time_zone] => Pacific Time (US & Canada)
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 28680
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 02:00:11 +0000 2015
+            [id] => 557356887075594240
+            [id_str] => 557356887075594240
+            [text] => Get your favorite #CraftSoda flavors delivered right to your door: http://t.co/MHJ2ND7W9o
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => CraftSoda
+                                    [indices] => Array
+                                        (
+                                            [0] => 18
+                                            [1] => 28
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/MHJ2ND7W9o
+                                    [expanded_url] => http://on.fb.me/1C8dtH2
+                                    [display_url] => on.fb.me/1C8dtH2
+                                    [indices] => Array
+                                        (
+                                            [0] => 67
+                                            [1] => 89
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => FFFFFF
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/378800000161257407/tM1hsj_2.jpeg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/378800000161257407/tM1hsj_2.jpeg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/518177631737376768/WghQOi1S_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/518177631737376768/WghQOi1S_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/19432962/1412378641
+    [profile_link_color] => FA961E
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => EDEEED
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557356887075594240
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 121 ,user id: 19432962
+In construction connection id: 174
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 95681541
+    [id_str] => 95681541
+    [name] => Emerald Queen Casino
+    [screen_name] => EQCasino
+    [location] => Fife, WA
+    [profile_location] => 
+    [description] => Emerald Queen Casino: The Entertainment Capital of the Northwest! Looking for a night out, gaming, dining, concerts, or sporting events? We have it all & more!
+    [url] => http://t.co/XqKU1hcgu6
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/XqKU1hcgu6
+                                    [expanded_url] => http://www.emeraldqueen.com/
+                                    [display_url] => emeraldqueen.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 4346
+    [friends_count] => 2666
+    [listed_count] => 145
+    [created_at] => Wed Dec 09 16:38:42 +0000 2009
+    [favourites_count] => 500
+    [utc_offset] => -32400
+    [time_zone] => Alaska
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 5653
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 03:11:20 +0000 2015
+            [id] => 557374790722260992
+            [id_str] => 557374790722260992
+            [text] => @Aaron253 Will you join us, Aaron?? http://t.co/0Bjotfer4X
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 557307909097287680
+            [in_reply_to_status_id_str] => 557307909097287680
+            [in_reply_to_user_id] => 17397206
+            [in_reply_to_user_id_str] => 17397206
+            [in_reply_to_screen_name] => Aaron253
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [screen_name] => Aaron253
+                                    [name] => Aaron
+                                    [id] => 17397206
+                                    [id_str] => 17397206
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 9
+                                        )
+
+                                )
+
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/0Bjotfer4X
+                                    [expanded_url] => http://bit.ly/EQCTickets
+                                    [display_url] => bit.ly/EQCTickets
+                                    [indices] => Array
+                                        (
+                                            [0] => 36
+                                            [1] => 58
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 223821
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/671797368/ba5446f79c1560812e995fdda486dbc3.jpeg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/671797368/ba5446f79c1560812e995fdda486dbc3.jpeg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/2659899201/45e8af923d2a283dd3a91cd627354754_normal.jpeg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/2659899201/45e8af923d2a283dd3a91cd627354754_normal.jpeg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/95681541/1421270007
+    [profile_link_color] => A8972B
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => EDED7D
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557374790722260992
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 125 ,user id: 95681541
+In construction connection id: 175
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 19041163
+    [id_str] => 19041163
+    [name] => Glutenfreeda
+    [screen_name] => Glutenfreeda
+    [location] => 
+    [profile_location] => 
+    [description] => Our mission is to help those with dietary restrictions return to a normal life of eating by offering convenient, high quality, authentic tasting, delicious food
+    [url] => http://t.co/zdKbbtuAms
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/zdKbbtuAms
+                                    [expanded_url] => http://www.glutenfreeda.com
+                                    [display_url] => glutenfreeda.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 9455
+    [friends_count] => 3247
+    [listed_count] => 339
+    [created_at] => Thu Jan 15 21:58:03 +0000 2009
+    [favourites_count] => 546
+    [utc_offset] => -28800
+    [time_zone] => Pacific Time (US & Canada)
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 6440
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 00:45:01 +0000 2015
+            [id] => 557337967799181312
+            [id_str] => 557337967799181312
+            [text] => Hiking, biking, or simply seeing where the road takes you… wherever you go, be prepared: http://t.co/G4x11InYNi #Glutenfree #Snacks
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 1
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => Glutenfree
+                                    [indices] => Array
+                                        (
+                                            [0] => 112
+                                            [1] => 123
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [text] => Snacks
+                                    [indices] => Array
+                                        (
+                                            [0] => 124
+                                            [1] => 131
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/G4x11InYNi
+                                    [expanded_url] => http://on.fb.me/1CbGxh6
+                                    [display_url] => on.fb.me/1CbGxh6
+                                    [indices] => Array
+                                        (
+                                            [0] => 89
+                                            [1] => 111
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => FFFFFF
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/378800000061069730/446bd63e709a5e876f005e174fa2f113.jpeg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/378800000061069730/446bd63e709a5e876f005e174fa2f113.jpeg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/483762861580120065/DR4GmpnV_normal.jpeg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/483762861580120065/DR4GmpnV_normal.jpeg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/19041163/1404172983
+    [profile_link_color] => 147D14
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => D1DACD
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557337967799181312
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 127 ,user id: 19041163
+In construction connection id: 176
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 369045159
+    [id_str] => 369045159
+    [name] => Colore | SG
+    [screen_name] => ColoreSG
+    [location] => 
+    [profile_location] => 
+    [description] => Colore | SG includes bracelets, necklaces, earrings, pendants & bangles. You will find the richest colors in the purest stones, set in gold and silver designs.
+    [url] => http://t.co/wWoak2nZQS
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/wWoak2nZQS
+                                    [expanded_url] => http://www.coloresg.com
+                                    [display_url] => coloresg.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 249
+    [friends_count] => 765
+    [listed_count] => 7
+    [created_at] => Tue Sep 06 17:29:41 +0000 2011
+    [favourites_count] => 95
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 2818
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 03:09:16 +0000 2015
+            [id] => 557374271836549120
+            [id_str] => 557374271836549120
+            [text] => @hannahnelson94 Stunning! Do you have your #accessories yet?
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 557305759026147328
+            [in_reply_to_status_id_str] => 557305759026147328
+            [in_reply_to_user_id] => 282128997
+            [in_reply_to_user_id_str] => 282128997
+            [in_reply_to_screen_name] => hannahnelson94
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => accessories
+                                    [indices] => Array
+                                        (
+                                            [0] => 43
+                                            [1] => 55
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [screen_name] => hannahnelson94
+                                    [name] => Hannah Nelson
+                                    [id] => 282128997
+                                    [id_str] => 282128997
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 15
+                                        )
+
+                                )
+
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/378800000081109315/7513d010911783098592ffc707d1c446.jpeg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/378800000081109315/7513d010911783098592ffc707d1c446.jpeg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/2269989645/polwtwy14chg841bbgxh_normal.jpeg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/2269989645/polwtwy14chg841bbgxh_normal.jpeg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/369045159/1379978872
+    [profile_link_color] => 463A8A
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557374271836549120
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 130 ,user id: 369045159
+In construction connection id: 179
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 82203990
+    [id_str] => 82203990
+    [name] => Sun Mountain Lodge
+    [screen_name] => SunMtnLodge
+    [location] => Winthrop, Washington, USA
+    [profile_location] => 
+    [description] => Luxury lodge in the heart of the North Cascade Mountains. Stay with us and dine at our four diamond gourmet restaurant with a 5,000 bottle wine collection.
+    [url] => http://t.co/rF5cxZwR81
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/rF5cxZwR81
+                                    [expanded_url] => http://www.sunmountainlodge.com
+                                    [display_url] => sunmountainlodge.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 1010
+    [friends_count] => 1621
+    [listed_count] => 26
+    [created_at] => Tue Oct 13 22:04:09 +0000 2009
+    [favourites_count] => 54
+    [utc_offset] => -28800
+    [time_zone] => Pacific Time (US & Canada)
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 887
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Fri Dec 13 17:47:45 +0000 2013
+            [id] => 411553039653568512
+            [id_str] => 411553039653568512
+            [text] => We are officially OPEN for the beautiful winter wonderland season! Can't wait to see you: http://t.co/lBrvOXcc7f #SunMountain #MethowValley
+            [source] => <a href="http://www.hootsuite.com" rel="nofollow">Hootsuite</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 4
+            [favorite_count] => 1
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => SunMountain
+                                    [indices] => Array
+                                        (
+                                            [0] => 113
+                                            [1] => 125
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [text] => MethowValley
+                                    [indices] => Array
+                                        (
+                                            [0] => 126
+                                            [1] => 139
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/lBrvOXcc7f
+                                    [expanded_url] => http://on.fb.me/JnpmnP
+                                    [display_url] => on.fb.me/JnpmnP
+                                    [indices] => Array
+                                        (
+                                            [0] => 90
+                                            [1] => 112
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 4B5E34
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/239873068/sunmountain_twitter3.jpg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/239873068/sunmountain_twitter3.jpg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1326774470/15-back_deck_twitter_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1326774470/15-back_deck_twitter_normal.jpg
+    [profile_link_color] => 0084B4
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 411553039653568512
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 133 ,user id: 82203990
+In construction connection id: 180
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 16131171
+    [id_str] => 16131171
+    [name] => THOMAS DEAN & CO
+    [screen_name] => thomasdeanco
+    [location] => New York
+    [profile_location] => 
+    [description] => Exquisite shirts for exquisite men.
+    [url] => http://t.co/16rIIZYmuM
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/16rIIZYmuM
+                                    [expanded_url] => http://www.thomasdeanco.com
+                                    [display_url] => thomasdeanco.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 1156
+    [friends_count] => 1554
+    [listed_count] => 13
+    [created_at] => Thu Sep 04 16:34:36 +0000 2008
+    [favourites_count] => 186
+    [utc_offset] => -18000
+    [time_zone] => Eastern Time (US & Canada)
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 3724
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 02:49:00 +0000 2015
+            [id] => 557369172816953345
+            [id_str] => 557369172816953345
+            [text] => The Sweater Sale continues on unabated. There are myriad fine sweaters of the greatest quality for your perusal. http://t.co/7wm5383oUy
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 1
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/7wm5383oUy
+                                    [expanded_url] => http://bit.ly/1e6ly2s
+                                    [display_url] => bit.ly/1e6ly2s
+                                    [indices] => Array
+                                        (
+                                            [0] => 113
+                                            [1] => 135
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => B9ACA6
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/449655009618042880/z3X8bkb9.png
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/449655009618042880/z3X8bkb9.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/3686684367/2824e8ac7d7eb9c650c61185e82dd5be_normal.jpeg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/3686684367/2824e8ac7d7eb9c650c61185e82dd5be_normal.jpeg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/16131171/1408577453
+    [profile_link_color] => 2FC2EF
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => 252429
+    [profile_text_color] => 666666
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557369172816953345
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 135 ,user id: 16131171
+In construction connection id: 183
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 61309816
+    [id_str] => 61309816
+    [name] => Pike Brewing Company
+    [screen_name] => pikebrewing
+    [location] => 1415 1st Ave, Seattle, WA
+    [profile_location] => 
+    [description] => Pike Brewing Great Draft Beer & Local Sustainable Pub Fare
+    [url] => http://t.co/BUnvdpwmge
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/BUnvdpwmge
+                                    [expanded_url] => http://www.pikebrewing.com
+                                    [display_url] => pikebrewing.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 11723
+    [friends_count] => 1093
+    [listed_count] => 753
+    [created_at] => Wed Jul 29 22:12:22 +0000 2009
+    [favourites_count] => 863
+    [utc_offset] => -28800
+    [time_zone] => Pacific Time (US & Canada)
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 4199
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 03:12:49 +0000 2015
+            [id] => 557375163889496064
+            [id_str] => 557375163889496064
+            [text] => @Rogue_hunter Why thank you!
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 557342436390105088
+            [in_reply_to_status_id_str] => 557342436390105088
+            [in_reply_to_user_id] => 15654884
+            [in_reply_to_user_id_str] => 15654884
+            [in_reply_to_screen_name] => Rogue_hunter
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [screen_name] => Rogue_hunter
+                                    [name] => Rogue_hunter
+                                    [id] => 15654884
+                                    [id_str] => 15654884
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 13
+                                        )
+
+                                )
+
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 030303
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/762312950/b4ae18cc0c3ff243a5e7e4af4ae72cea.jpeg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/762312950/b4ae18cc0c3ff243a5e7e4af4ae72cea.jpeg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/481175489281654784/UFPqhVOT_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/481175489281654784/UFPqhVOT_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/61309816/1405967211
+    [profile_link_color] => 403E3E
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => B82126
+    [profile_text_color] => 0A0909
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557375163889496064
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 128 ,user id: 61309816
+In construction connection id: 184
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 81218184
+    [id_str] => 81218184
+    [name] => Drink Reliant Water
+    [screen_name] => DrinkReliant
+    [location] => Tacoma, WA
+    [profile_location] => 
+    [description] => Be more active, perform better, and recover faster with Reliant.
+    [url] => http://t.co/k4VF8iAQ51
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/k4VF8iAQ51
+                                    [expanded_url] => http://www.drinkreliant.com
+                                    [display_url] => drinkreliant.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 486
+    [friends_count] => 164
+    [listed_count] => 6
+    [created_at] => Fri Oct 09 22:27:12 +0000 2009
+    [favourites_count] => 30
+    [utc_offset] => -28800
+    [time_zone] => Pacific Time (US & Canada)
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 686
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Mon Jan 19 23:18:00 +0000 2015
+            [id] => 557316072290795520
+            [id_str] => 557316072290795520
+            [text] => Cures for Stress Fractures and Shin Splints from the running doctor:
+http://t.co/mEVpY2xv7u
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 2
+            [favorite_count] => 1
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/mEVpY2xv7u
+                                    [expanded_url] => http://nydn.us/1C49N9w
+                                    [display_url] => nydn.us/1C49N9w
+                                    [indices] => Array
+                                        (
+                                            [0] => 69
+                                            [1] => 91
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/522159953067249665/VqtrWLqC_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/522159953067249665/VqtrWLqC_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/81218184/1403421102
+    [profile_link_color] => 0084B4
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557316072290795520
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 129 ,user id: 81218184
+In construction connection id: 185
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 21414771
+    [id_str] => 21414771
+    [name] => TNT Fireworks
+    [screen_name] => tntfireworks
+    [location] => Florence, AL
+    [profile_location] => 
+    [description] => America's #1 Selling Brand of Fireworks | if it's not TNT, it's not Fireworks.
+    [url] => http://t.co/2eHCBt8cte
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/2eHCBt8cte
+                                    [expanded_url] => http://wefollow.com/tntfireworks
+                                    [display_url] => wefollow.com/tntfireworks
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 4126
+    [friends_count] => 1718
+    [listed_count] => 28
+    [created_at] => Fri Feb 20 17:24:26 +0000 2009
+    [favourites_count] => 95
+    [utc_offset] => -21600
+    [time_zone] => Central Time (US & Canada)
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 2404
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Mon Jan 19 22:44:01 +0000 2015
+            [id] => 557307520864112641
+            [id_str] => 557307520864112641
+            [text] => Nature’s own fireworks. Amazingly, these are plants. 
+
+(Image courtesy of Redditor VerGuy) http://t.co/34FvHZoqBH
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                    [media] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 557307520742457344
+                                    [id_str] => 557307520742457344
+                                    [indices] => Array
+                                        (
+                                            [0] => 91
+                                            [1] => 113
+                                        )
+
+                                    [media_url] => http://pbs.twimg.com/media/B7v0PMSCAAAbmC8.png
+                                    [media_url_https] => https://pbs.twimg.com/media/B7v0PMSCAAAbmC8.png
+                                    [url] => http://t.co/34FvHZoqBH
+                                    [display_url] => pic.twitter.com/34FvHZoqBH
+                                    [expanded_url] => http://twitter.com/tntfireworks/status/557307520864112641/photo/1
+                                    [type] => photo
+                                    [sizes] => Array
+                                        (
+                                            [thumb] => Array
+                                                (
+                                                    [w] => 150
+                                                    [h] => 150
+                                                    [resize] => crop
+                                                )
+
+                                            [medium] => Array
+                                                (
+                                                    [w] => 600
+                                                    [h] => 800
+                                                    [resize] => fit
+                                                )
+
+                                            [large] => Array
+                                                (
+                                                    [w] => 600
+                                                    [h] => 800
+                                                    [resize] => fit
+                                                )
+
+                                            [small] => Array
+                                                (
+                                                    [w] => 340
+                                                    [h] => 453
+                                                    [resize] => fit
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => B90004
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/4778797/stra.jpg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/4778797/stra.jpg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/469941952406749185/ml9UEDNQ_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/469941952406749185/ml9UEDNQ_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/21414771/1400877845
+    [profile_link_color] => D70909
+    [profile_sidebar_border_color] => ECF8F8
+    [profile_sidebar_fill_color] => F8D53A
+    [profile_text_color] => 050308
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557307520864112641
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 136 ,user id: 21414771
+In construction connection id: 186
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 65533212
+    [id_str] => 65533212
+    [name] => Truitt Family Foods
+    [screen_name] => TruittFoods
+    [location] => Salem, Oregon
+    [profile_location] => 
+    [description] => Friends of Farmers, Preservers of good food, Connoisseurs of Beans, located in Salem, Oregon.
+    [url] => http://t.co/fZrg3swvzt
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/fZrg3swvzt
+                                    [expanded_url] => http://www.truittfamilyfoods.com
+                                    [display_url] => truittfamilyfoods.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 606
+    [friends_count] => 359
+    [listed_count] => 45
+    [created_at] => Fri Aug 14 02:04:10 +0000 2009
+    [favourites_count] => 25
+    [utc_offset] => -28800
+    [time_zone] => Pacific Time (US & Canada)
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1062
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 02:37:00 +0000 2015
+            [id] => 557366152821633026
+            [id_str] => 557366152821633026
+            [text] => Whole foods made the wholesome way: http://t.co/sqcePycbHh #EatClean #Healthy #FarmToFork
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 2
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => EatClean
+                                    [indices] => Array
+                                        (
+                                            [0] => 59
+                                            [1] => 68
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [text] => Healthy
+                                    [indices] => Array
+                                        (
+                                            [0] => 69
+                                            [1] => 77
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [text] => FarmToFork
+                                    [indices] => Array
+                                        (
+                                            [0] => 78
+                                            [1] => 89
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/sqcePycbHh
+                                    [expanded_url] => http://on.fb.me/1BrSEIW
+                                    [display_url] => on.fb.me/1BrSEIW
+                                    [indices] => Array
+                                        (
+                                            [0] => 36
+                                            [1] => 58
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 2D8A2D
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/602065502/45mja6wvkpeo7pqbinso.jpeg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/602065502/45mja6wvkpeo7pqbinso.jpeg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/509850820125274112/wv9ofarn_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/509850820125274112/wv9ofarn_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/65533212/1410392816
+    [profile_link_color] => 1A00FF
+    [profile_sidebar_border_color] => 66D9D1
+    [profile_sidebar_fill_color] => 7CEB8B
+    [profile_text_color] => 3D1957
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557366152821633026
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 137 ,user id: 65533212
+In construction connection id: 187
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 15370306
+    [id_str] => 15370306
+    [name] => WashingtonStateFair
+    [screen_name] => WAStateFair
+    [location] => Puyallup, WA
+    [profile_location] => 
+    [description] => Washington State Fair - Do the Puyallup!
+Sept. 5-21, 2014
+
+Washington State Spring Fair
+April 16-19, 2015
+    [url] => http://t.co/rhoCgP8IP2
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/rhoCgP8IP2
+                                    [expanded_url] => http://www.thefair.com
+                                    [display_url] => thefair.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 4863
+    [friends_count] => 368
+    [listed_count] => 153
+    [created_at] => Wed Jul 09 21:01:46 +0000 2008
+    [favourites_count] => 1854
+    [utc_offset] => -28800
+    [time_zone] => Pacific Time (US & Canada)
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 3649
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 01:39:00 +0000 2015
+            [id] => 557351556652072960
+            [id_str] => 557351556652072960
+            [text] => Everyone, listen up. This is a big week. Huge announcements are coming. Can you guess what the big news is?
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => D8EFF7
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/378800000173499236/mq75F7Te.jpeg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/378800000173499236/mq75F7Te.jpeg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/3565478374/18bde717d6806a2c6be30427cea4cfd3_normal.jpeg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/3565478374/18bde717d6806a2c6be30427cea4cfd3_normal.jpeg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/15370306/1415229422
+    [profile_link_color] => 9E3039
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => FFF9BA
+    [profile_text_color] => 4F4F4F
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557351556652072960
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 138 ,user id: 15370306
+In construction connection id: 188
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 870240385
+    [id_str] => 870240385
+    [name] => USA Direct Funding
+    [screen_name] => USADirectFund
+    [location] => Portland, Oregon
+    [profile_location] => 
+    [description] => USA Direct Funding takes pride in providing our clients with the best service in the industry. That commitment to excellence begins with our team.
+    [url] => http://t.co/spA6doiP
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/spA6doiP
+                                    [expanded_url] => http://usadirectfunding.com/
+                                    [display_url] => usadirectfunding.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 20
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 237
+    [friends_count] => 467
+    [listed_count] => 7
+    [created_at] => Tue Oct 09 16:57:35 +0000 2012
+    [favourites_count] => 16
+    [utc_offset] => -25200
+    [time_zone] => Arizona
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1365
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 02:01:46 +0000 2015
+            [id] => 557357286117478402
+            [id_str] => 557357286117478402
+            [text] => A healthy #HousingMarket means good things for the entire #economy. So far, things are looking up! http://t.co/AW8efg3CId (via @usnews)
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => HousingMarket
+                                    [indices] => Array
+                                        (
+                                            [0] => 10
+                                            [1] => 24
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [text] => economy
+                                    [indices] => Array
+                                        (
+                                            [0] => 58
+                                            [1] => 66
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [screen_name] => usnews
+                                    [name] => U.S. News
+                                    [id] => 6577642
+                                    [id_str] => 6577642
+                                    [indices] => Array
+                                        (
+                                            [0] => 127
+                                            [1] => 134
+                                        )
+
+                                )
+
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/AW8efg3CId
+                                    [expanded_url] => http://bit.ly/1E7Hh8n
+                                    [display_url] => bit.ly/1E7Hh8n
+                                    [indices] => Array
+                                        (
+                                            [0] => 99
+                                            [1] => 121
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 131516
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/771330134/3bcc16c602be7d434143056bc101875d.jpeg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/771330134/3bcc16c602be7d434143056bc101875d.jpeg
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/555840162400186368/WcRrU-Ls_normal.jpeg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/555840162400186368/WcRrU-Ls_normal.jpeg
+    [profile_link_color] => ABB8C2
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => EFEFEF
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557357286117478402
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 139 ,user id: 870240385
+In construction connection id: 189
+IN IF updateHistoricalFollowers
+PHP Notice:  Undefined index: status in /var/www/application/tw_stream/controller.php on line 41
+
+Notice: Undefined index: status in /var/www/application/tw_stream/controller.php on line 41
+PHP Notice:  Undefined index: status in /var/www/application/tw_stream/controller.php on line 43
+
+Notice: Undefined index: status in /var/www/application/tw_stream/controller.php on line 43
+Array
+(
+    [id] => 1546135033
+    [id_str] => 1546135033
+    [name] => Yami Yogurt
+    [screen_name] => Yami_Yogurt
+    [location] => 
+    [profile_location] => 
+    [description] => 
+    [url] => 
+    [entities] => Array
+        (
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 0
+    [friends_count] => 5
+    [listed_count] => 0
+    [created_at] => Tue Jun 25 16:20:45 +0000 2013
+    [favourites_count] => 0
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 0
+    [lang] => en
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png
+    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png
+    [profile_link_color] => 0084B4
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [default_profile] => 1
+    [default_profile_image] => 1
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+PHP Notice:  Undefined index: status in /var/www/application/tw_stream/controller.php on line 46
+
+Notice: Undefined index: status in /var/www/application/tw_stream/controller.php on line 46
+TweetID: 
+in if tweet Cron#################
+ID 1546135033
+********************
+Tweet
+In construction account id: 140 ,user id: 1546135033
+In construction connection id: 190
+PHP Notice:  Undefined index: status in /var/www/application/tw_stream/controller.php on line 57
+
+Notice: Undefined index: status in /var/www/application/tw_stream/controller.php on line 57
+PHP Notice:  Undefined index: status in /var/www/application/tw_stream/controller.php on line 58
+
+Notice: Undefined index: status in /var/www/application/tw_stream/controller.php on line 58
+PHP Notice:  Undefined index: status in /var/www/application/tw_stream/controller.php on line 59
+
+Notice: Undefined index: status in /var/www/application/tw_stream/controller.php on line 59
+PHP Notice:  Undefined index: status in /var/www/application/tw_stream/controller.php on line 60
+
+Notice: Undefined index: status in /var/www/application/tw_stream/controller.php on line 60
+PHP Notice:  Undefined index: status in /var/www/application/tw_stream/controller.php on line 61
+
+Notice: Undefined index: status in /var/www/application/tw_stream/controller.php on line 61
+PHP Notice:  Undefined index: status in /var/www/application/tw_stream/controller.php on line 63
+
+Notice: Undefined index: status in /var/www/application/tw_stream/controller.php on line 63
+PHP Notice:  Undefined index: status in /var/www/application/tw_stream/controller.php on line 64
+
+Notice: Undefined index: status in /var/www/application/tw_stream/controller.php on line 64
+PHP Notice:  Undefined index: status in /var/www/application/tw_stream/controller.php on line 65
+
+Notice: Undefined index: status in /var/www/application/tw_stream/controller.php on line 65
+PHP Notice:  Undefined index: status in /var/www/application/tw_stream/controller.php on line 66
+
+Notice: Undefined index: status in /var/www/application/tw_stream/controller.php on line 66
+PHP Notice:  Undefined index: status in /var/www/application/tw_stream/controller.php on line 67
+
+Notice: Undefined index: status in /var/www/application/tw_stream/controller.php on line 67
+PHP Notice:  Undefined index: status in /var/www/application/tw_stream/controller.php on line 68
+
+Notice: Undefined index: status in /var/www/application/tw_stream/controller.php on line 68
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 1546082346
+    [id_str] => 1546082346
+    [name] => Zoi Greek Yogurt
+    [screen_name] => ZoiGreekYogurt
+    [location] => 
+    [profile_location] => 
+    [description] => Epic taste - fit for the gods.  Zoi Greek Yogurt feeds your inner life force so you can head off on your daily odyssey with new zest.
+    [url] => http://t.co/YDu442bkq4
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/YDu442bkq4
+                                    [expanded_url] => http://www.zoigreekyogurt.com
+                                    [display_url] => zoigreekyogurt.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 195
+    [friends_count] => 1162
+    [listed_count] => 7
+    [created_at] => Tue Jun 25 16:17:14 +0000 2013
+    [favourites_count] => 152
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 2198
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Tue Jan 20 01:17:45 +0000 2015
+            [id] => 557346208977395713
+            [id_str] => 557346208977395713
+            [text] => @viejoberg It's really not as bad as your making it sound. #GreekYogurt is pretty wonderful, even if you're eating it solo.
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 557335384301248512
+            [in_reply_to_status_id_str] => 557335384301248512
+            [in_reply_to_user_id] => 443448983
+            [in_reply_to_user_id_str] => 443448983
+            [in_reply_to_screen_name] => viejoberg
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => GreekYogurt
+                                    [indices] => Array
+                                        (
+                                            [0] => 59
+                                            [1] => 71
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [screen_name] => viejoberg
+                                    [name] => shmeef oldenburger
+                                    [id] => 443448983
+                                    [id_str] => 443448983
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 10
+                                        )
+
+                                )
+
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/378800000041206522/e2deef92d54cb4dae46eab09eb1e785f.png
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/378800000041206522/e2deef92d54cb4dae46eab09eb1e785f.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/378800000567992377/b33d72890a21afee3ca518ecf1dbfe96_normal.jpeg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/378800000567992377/b33d72890a21afee3ca518ecf1dbfe96_normal.jpeg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1546082346/1399659727
+    [profile_link_color] => 0084B4
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557346208977395713
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 141 ,user id: 1546082346
+In construction connection id: 191
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 43977597
+    [id_str] => 43977597
+    [name] => Project Bionic
+    [screen_name] => ProjectBionic
+    [location] => Seattle, WA
+    [profile_location] => 
+    [description] => A Social Media marketing agency, doing all the Social Media things, and doing those things in an elegant, expert manner with a talented, hard-working team.
+    [url] => http://t.co/3N170Kg3vI
+    [entities] => Array
+        (
+            [url] => Array
+                (
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/3N170Kg3vI
+                                    [expanded_url] => http://www.projectbionic.com
+                                    [display_url] => projectbionic.com
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 22
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 2713
+    [friends_count] => 2719
+    [listed_count] => 148
+    [created_at] => Mon Jun 01 21:29:04 +0000 2009
+    [favourites_count] => 98
+    [utc_offset] => -28800
+    [time_zone] => Pacific Time (US & Canada)
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1947
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Mon Jan 19 23:10:01 +0000 2015
+            [id] => 557314062405480450
+            [id_str] => 557314062405480450
+            [text] => Here's to hoping you all had as much fun at our party as we did. #ProjectBionic http://t.co/D8mtlimJod
+            [source] => <a href="http://sproutsocial.com" rel="nofollow">Sprout Social</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => ProjectBionic
+                                    [indices] => Array
+                                        (
+                                            [0] => 65
+                                            [1] => 79
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                    [media] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 557314062304817152
+                                    [id_str] => 557314062304817152
+                                    [indices] => Array
+                                        (
+                                            [0] => 80
+                                            [1] => 102
+                                        )
+
+                                    [media_url] => http://pbs.twimg.com/media/B7v6L9gCMAAd5cu.jpg
+                                    [media_url_https] => https://pbs.twimg.com/media/B7v6L9gCMAAd5cu.jpg
+                                    [url] => http://t.co/D8mtlimJod
+                                    [display_url] => pic.twitter.com/D8mtlimJod
+                                    [expanded_url] => http://twitter.com/ProjectBionic/status/557314062405480450/photo/1
+                                    [type] => photo
+                                    [sizes] => Array
+                                        (
+                                            [medium] => Array
+                                                (
+                                                    [w] => 600
+                                                    [h] => 399
+                                                    [resize] => fit
+                                                )
+
+                                            [small] => Array
+                                                (
+                                                    [w] => 340
+                                                    [h] => 226
+                                                    [resize] => fit
+                                                )
+
+                                            [thumb] => Array
+                                                (
+                                                    [w] => 150
+                                                    [h] => 150
+                                                    [resize] => crop
+                                                )
+
+                                            [large] => Array
+                                                (
+                                                    [w] => 1024
+                                                    [h] => 682
+                                                    [resize] => fit
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 333333
+    [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/560941864/Twitter_Background.jpg
+    [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/560941864/Twitter_Background.jpg
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/2249336479/Project_Bionic_Twitter_Logo_-_New_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/2249336479/Project_Bionic_Twitter_Logo_-_New_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/43977597/1399412078
+    [profile_link_color] => 009999
+    [profile_sidebar_border_color] => EEEEEE
+    [profile_sidebar_fill_color] => EFEFEF
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 557314062405480450
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 142 ,user id: 43977597
+In construction connection id: 192
+IN IF updateHistoricalFollowers
+Array
+(
+    [id] => 32778917
+    [id_str] => 32778917
+    [name] => jeremy
+    [screen_name] => titansgs
+    [location] => 
+    [profile_location] => 
+    [description] => 
+    [url] => 
+    [entities] => Array
+        (
+            [description] => Array
+                (
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [protected] => 
+    [followers_count] => 8
+    [friends_count] => 532
+    [listed_count] => 0
+    [created_at] => Sat Apr 18 04:16:35 +0000 2009
+    [favourites_count] => 0
+    [utc_offset] => -28800
+    [time_zone] => Pacific Time (US & Canada)
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 26
+    [lang] => en
+    [status] => Array
+        (
+            [created_at] => Mon Nov 03 06:18:56 +0000 2014
+            [id] => 529155748505206786
+            [id_str] => 529155748505206786
+            [text] => Having fun playing #CSRRacing for Android, why not join me for FREE?
+http://t.co/5XUZNaRn6r  rr
+            [source] => <a href="https://play.google.com/store/apps/details?id=com.naturalmotion.csrracing" rel="nofollow">CSR Racing</a>
+            [truncated] => 
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => CSRRacing
+                                    [indices] => Array
+                                        (
+                                            [0] => 19
+                                            [1] => 29
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => http://t.co/5XUZNaRn6r
+                                    [expanded_url] => http://nmgam.es/crgt
+                                    [display_url] => nmgam.es/crgt
+                                    [indices] => Array
+                                        (
+                                            [0] => 69
+                                            [1] => 91
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => en
+        )
+
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/248082219/n27205066_34477743_5584_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/248082219/n27205066_34477743_5584_normal.jpg
+    [profile_link_color] => 0084B4
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+)
+on if tweet Cron++++++++++++++
+TweetID: 529155748505206786
+in else tweet Cron%%%%%%%%%%%%%%%%%%%
+In construction account id: 124 ,user id: 32778917
+In construction connection id: 193
+IN IF updateHistoricalFollowers
+update webanalysis.DataTwUser set FollowersCount = (case TwUserID when 64453378 then 7719 end), FriendsCount = (case TwUserID when 64453378 then 600 end), ListedCount =  (case TwUserID when 64453378 then 238 end), FavouritesCount =  (case TwUserID when 64453378 then 406 end), StatusesCount = (case TwUserID when 64453378 then 2819 end), FollowersCount = (case TwUserID when 64609353 then 4615 end), FriendsCount = (case TwUserID when 64609353 then 2721 end), ListedCount =  (case TwUserID when 64609353 then 152 end), FavouritesCount =  (case TwUserID when 64609353 then 2143 end), StatusesCount = (case TwUserID when 64609353 then 7333 end), FollowersCount = (case TwUserID when 478991090 then 771 end), FriendsCount = (case TwUserID when 478991090 then 150 end), ListedCount =  (case TwUserID when 478991090 then 1 end), FavouritesCount =  (case TwUserID when 478991090 then 2 end), StatusesCount = (case TwUserID when 478991090 then 470 end), FollowersCount = (case TwUserID when 54800751 then 2253 end), FriendsCount = (case TwUserID when 54800751 then 1870 end), ListedCount =  (case TwUserID when 54800751 then 54 end), FavouritesCount =  (case TwUserID when 54800751 then 352 end), StatusesCount = (case TwUserID when 54800751 then 6452 end), FollowersCount = (case TwUserID when 54818890 then 1978 end), FriendsCount = (case TwUserID when 54818890 then 1306 end), ListedCount =  (case TwUserID when 54818890 then 53 end), FavouritesCount =  (case TwUserID when 54818890 then 128 end), StatusesCount = (case TwUserID when 54818890 then 5731 end), FollowersCount = (case TwUserID when 809515452 then 436 end), FriendsCount = (case TwUserID when 809515452 then 306 end), ListedCount =  (case TwUserID when 809515452 then 10 end), FavouritesCount =  (case TwUserID when 809515452 then 720 end), StatusesCount = (case TwUserID when 809515452 then 3112 end), FollowersCount = (case TwUserID when 19432962 then 8166 end), FriendsCount = (case TwUserID when 19432962 then 5535 end), ListedCount =  (case TwUserID when 19432962 then 389 end), FavouritesCount =  (case TwUserID when 19432962 then 3102 end), StatusesCount = (case TwUserID when 19432962 then 28680 end), FollowersCount = (case TwUserID when 95681541 then 4346 end), FriendsCount = (case TwUserID when 95681541 then 2666 end), ListedCount =  (case TwUserID when 95681541 then 145 end), FavouritesCount =  (case TwUserID when 95681541 then 500 end), StatusesCount = (case TwUserID when 95681541 then 5653 end), FollowersCount = (case TwUserID when 19041163 then 9455 end), FriendsCount = (case TwUserID when 19041163 then 3247 end), ListedCount =  (case TwUserID when 19041163 then 339 end), FavouritesCount =  (case TwUserID when 19041163 then 546 end), StatusesCount = (case TwUserID when 19041163 then 6440 end), FollowersCount = (case TwUserID when 369045159 then 249 end), FriendsCount = (case TwUserID when 369045159 then 765 end), ListedCount =  (case TwUserID when 369045159 then 7 end), FavouritesCount =  (case TwUserID when 369045159 then 95 end), StatusesCount = (case TwUserID when 369045159 then 2818 end), FollowersCount = (case TwUserID when 82203990 then 1010 end), FriendsCount = (case TwUserID when 82203990 then 1621 end), ListedCount =  (case TwUserID when 82203990 then 26 end), FavouritesCount =  (case TwUserID when 82203990 then 54 end), StatusesCount = (case TwUserID when 82203990 then 887 end), FollowersCount = (case TwUserID when 16131171 then 1156 end), FriendsCount = (case TwUserID when 16131171 then 1554 end), ListedCount =  (case TwUserID when 16131171 then 13 end), FavouritesCount =  (case TwUserID when 16131171 then 186 end), StatusesCount = (case TwUserID when 16131171 then 3724 end), FollowersCount = (case TwUserID when 61309816 then 11723 end), FriendsCount = (case TwUserID when 61309816 then 1093 end), ListedCount =  (case TwUserID when 61309816 then 753 end), FavouritesCount =  (case TwUserID when 61309816 then 863 end), StatusesCount = (case TwUserID when 61309816 then 4199 end), FollowersCount = (case TwUserID when 81218184 then 486 end), FriendsCount = (case TwUserID when 81218184 then 164 end), ListedCount =  (case TwUserID when 81218184 then 6 end), FavouritesCount =  (case TwUserID when 81218184 then 30 end), StatusesCount = (case TwUserID when 81218184 then 686 end), FollowersCount = (case TwUserID when 21414771 then 4126 end), FriendsCount = (case TwUserID when 21414771 then 1718 end), ListedCount =  (case TwUserID when 21414771 then 28 end), FavouritesCount =  (case TwUserID when 21414771 then 95 end), StatusesCount = (case TwUserID when 21414771 then 2404 end), FollowersCount = (case TwUserID when 65533212 then 606 end), FriendsCount = (case TwUserID when 65533212 then 359 end), ListedCount =  (case TwUserID when 65533212 then 45 end), FavouritesCount =  (case TwUserID when 65533212 then 25 end), StatusesCount = (case TwUserID when 65533212 then 1062 end), FollowersCount = (case TwUserID when 15370306 then 4863 end), FriendsCount = (case TwUserID when 15370306 then 368 end), ListedCount =  (case TwUserID when 15370306 then 153 end), FavouritesCount =  (case TwUserID when 15370306 then 1854 end), StatusesCount = (case TwUserID when 15370306 then 3649 end), FollowersCount = (case TwUserID when 870240385 then 237 end), FriendsCount = (case TwUserID when 870240385 then 467 end), ListedCount =  (case TwUserID when 870240385 then 7 end), FavouritesCount =  (case TwUserID when 870240385 then 16 end), StatusesCount = (case TwUserID when 870240385 then 1365 end), FollowersCount = (case TwUserID when 1546082346 then 195 end), FriendsCount = (case TwUserID when 1546082346 then 1162 end), ListedCount =  (case TwUserID when 1546082346 then 7 end), FavouritesCount =  (case TwUserID when 1546082346 then 152 end), StatusesCount = (case TwUserID when 1546082346 then 2198 end), FollowersCount = (case TwUserID when 43977597 then 2713 end), FriendsCount = (case TwUserID when 43977597 then 2719 end), ListedCount =  (case TwUserID when 43977597 then 148 end), FavouritesCount =  (case TwUserID when 43977597 then 98 end), StatusesCount = (case TwUserID when 43977597 then 1947 end), FollowersCount = (case TwUserID when 32778917 then 8 end), FriendsCount = (case TwUserID when 32778917 then 532 end), ListedCount =  (case TwUserID when 32778917 then 0 end), FavouritesCount =  (case TwUserID when 32778917 then 0 end), StatusesCount = (case TwUserID when 32778917 then 26 end) where TwTweetID in(64453378,64609353,478991090,54800751,54818890,809515452,19432962,95681541,19041163,369045159,82203990,16131171,61309816,81218184,21414771,65533212,15370306,870240385,1546082346,43977597,32778917)

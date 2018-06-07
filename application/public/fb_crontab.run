@@ -1,0 +1,1 @@
+0	1	*	*	*	cd /var/www/application/public && ./fb_index.php > fb_log.txt 2>&1
