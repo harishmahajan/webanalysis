@@ -15,3 +15,6 @@ eye-catching graphic.
 
 Finally, consider defining some sprints and work items in Track & Plan to give 
 interested developers a sense of your cadence and upcoming enhancements.
+
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/HarishMahajan)
